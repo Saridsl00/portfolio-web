@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="nav">
       <div className="wrap nav-in">
-        <a href="#" className="logo anton">CD</a>
+        <a href="#" className="logo anton">SDSL</a>
         <ul className={open ? "open" : ""}>
           {navLinks.map(([n, h]) => (
             <li key={n}><a href={h} onClick={() => setOpen(false)}>{n}</a></li>
