@@ -18,9 +18,10 @@ export const profile = {
 export const emailjs = { service: "service_d35x4t4", template: "template_t23954b", key: "rJuMt6il-zgTx68_m" };
 
 export const navLinks = [
-  ["Tentang", "#tentang"], ["Proyek", "#proyek"], ["Skill", "#skill"],
-  ["Sertifikat", "#sertifikat"], ["Kontak", "#kontak"],
+  ["Tentang", "#tentang"], ["Pengalaman", "#pengalaman"], ["Proyek", "#proyek"],
+  ["Skill", "#skill"], ["Sertifikat", "#sertifikat"], ["Kontak", "#kontak"],
 ];
+
 
 export const stats = [
   { to: 7, label: "Semester Sistem Informasi", suffix: "" },
@@ -88,4 +89,20 @@ export const steps = [
   ["Design", "Membuat wireframe dan visual yang komunikatif."],
   ["Develop", "Membangun solusi yang bersih dan responsif."],
   ["Deliver", "Menguji, mengoptimalkan, dan meluncurkan."],
+];
+
+
+export const experiences = [
+  {
+    role: "Fullstack Developer Intern",
+    company: "Nama Perusahaan", // ✏️ GANTI dengan nama perusahaanmu
+    type: "Magang",
+    period: "Agustus 2026 – November 2026",
+    points: [
+      "Membuat website dari awal, mulai dari tampilan (frontend) sampai sisi backend.",
+      "Memperbaiki dan merawat website yang sudah ada, seperti bug, tampilan, dan performa.",
+      "Mendesain kalender 2027 menggunakan Figma.",
+    ],
+    tags: ["Fullstack", "Website", "Figma"],
+  },
 ];
