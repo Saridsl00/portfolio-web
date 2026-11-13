@@ -9,7 +9,7 @@ export const profile = {
   socials: [
     { alt: "Instagram", icon: "/social/instagram.png", web: "https://www.instagram.com/saridsl.m/", app: "instagram://user?username=saridsl.m" },
     { alt: "TikTok", icon: "/social/tiktok.png", web: "https://www.tiktok.com/@usernameimu", app: "snssdk1128://user/profile/usernameimu" },
-    { alt: "GitHub", icon: "/social/github.png", web: "https://github.com/Saridsl00", app: "github://user?username=Saridsl00" },
+    { alt: "GitHub", icon: "/social/github.jpg", web: "https://github.com/Saridsl00", app: "github://user?username=Saridsl00" },
     { alt: "YouTube", icon: "/social/youtube.png", web: "https://youtube.com/@saridosmasantalusi", app: "vnd.youtube://channel/saridosmasantalusi" },
   ],
 };
