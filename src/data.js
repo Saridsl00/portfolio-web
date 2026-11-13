@@ -95,7 +95,7 @@ export const steps = [
 export const experiences = [
   {
     role: "Fullstack Developer Intern",
-    company: "Nama Perusahaan", // ✏️ GANTI dengan nama perusahaanmu
+    company: "PT Pola Petro Development", // ✏️ GANTI dengan nama perusahaanmu
     type: "Magang",
     period: "Agustus 2026 – November 2026",
     points: [
